@@ -1,0 +1,14 @@
+C:\Users\Emma\source\repos\GiphyService\GiphyService\bin\Debug\netcoreapp2.0\GiphyService.Api.deps.json
+C:\Users\Emma\source\repos\GiphyService\GiphyService\bin\Debug\netcoreapp2.0\GiphyService.Api.runtimeconfig.json
+C:\Users\Emma\source\repos\GiphyService\GiphyService\bin\Debug\netcoreapp2.0\GiphyService.Api.runtimeconfig.dev.json
+C:\Users\Emma\source\repos\GiphyService\GiphyService\bin\Debug\netcoreapp2.0\GiphyService.Api.dll
+C:\Users\Emma\source\repos\GiphyService\GiphyService\bin\Debug\netcoreapp2.0\GiphyService.Api.pdb
+C:\Users\Emma\source\repos\GiphyService\GiphyService\bin\Debug\netcoreapp2.0\GiphyService.Libs.dll
+C:\Users\Emma\source\repos\GiphyService\GiphyService\bin\Debug\netcoreapp2.0\GiphyService.Libs.pdb
+C:\Users\Emma\source\repos\GiphyService\GiphyService\obj\Debug\netcoreapp2.0\GiphyService.Api.csprojAssemblyReference.cache
+C:\Users\Emma\source\repos\GiphyService\GiphyService\obj\Debug\netcoreapp2.0\GiphyService.Api.csproj.CoreCompileInputs.cache
+C:\Users\Emma\source\repos\GiphyService\GiphyService\obj\Debug\netcoreapp2.0\GiphyService.Api.AssemblyInfoInputs.cache
+C:\Users\Emma\source\repos\GiphyService\GiphyService\obj\Debug\netcoreapp2.0\GiphyService.Api.AssemblyInfo.cs
+C:\Users\Emma\source\repos\GiphyService\GiphyService\obj\Debug\netcoreapp2.0\GiphyService.Api.csproj.CopyComplete
+C:\Users\Emma\source\repos\GiphyService\GiphyService\obj\Debug\netcoreapp2.0\GiphyService.Api.dll
+C:\Users\Emma\source\repos\GiphyService\GiphyService\obj\Debug\netcoreapp2.0\GiphyService.Api.pdb

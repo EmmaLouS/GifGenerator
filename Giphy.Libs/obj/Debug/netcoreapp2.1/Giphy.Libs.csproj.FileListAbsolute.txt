@@ -1,0 +1,9 @@
+C:\Users\Emma\source\repos\GiphyService\Giphy.Libs\bin\Debug\netcoreapp2.1\Giphy.Libs.deps.json
+C:\Users\Emma\source\repos\GiphyService\Giphy.Libs\bin\Debug\netcoreapp2.1\Giphy.Libs.dll
+C:\Users\Emma\source\repos\GiphyService\Giphy.Libs\bin\Debug\netcoreapp2.1\Giphy.Libs.pdb
+C:\Users\Emma\source\repos\GiphyService\Giphy.Libs\obj\Debug\netcoreapp2.1\Giphy.Libs.csprojAssemblyReference.cache
+C:\Users\Emma\source\repos\GiphyService\Giphy.Libs\obj\Debug\netcoreapp2.1\Giphy.Libs.csproj.CoreCompileInputs.cache
+C:\Users\Emma\source\repos\GiphyService\Giphy.Libs\obj\Debug\netcoreapp2.1\Giphy.Libs.AssemblyInfoInputs.cache
+C:\Users\Emma\source\repos\GiphyService\Giphy.Libs\obj\Debug\netcoreapp2.1\Giphy.Libs.AssemblyInfo.cs
+C:\Users\Emma\source\repos\GiphyService\Giphy.Libs\obj\Debug\netcoreapp2.1\Giphy.Libs.dll
+C:\Users\Emma\source\repos\GiphyService\Giphy.Libs\obj\Debug\netcoreapp2.1\Giphy.Libs.pdb
